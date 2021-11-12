@@ -2,4 +2,4 @@
 
 Older player shows: ROCK!!
 
-Younger player shows:
+Younger player shows: Paper
