@@ -1,5 +1,5 @@
 # RockPaperScissors
 
-Older player shows:
+Older player shows: ROCK!!
 
 Younger player shows:
